@@ -1,0 +1,9 @@
+{
+    "Modality": "MR",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Prisma",
+    "EchoTime": 0.00456,
+    "RepetitionTime": 2.3,
+    "FlipAngle": 8
+}
